@@ -5,14 +5,12 @@
  *      Author: rafa
  */
 
-
 #include <ufo_log/frontend_def.hpp>                                                //compiled in place, but it could be in a separate library
 #include <ufo_log/ufo_log.hpp>
 #include <ufo_log/util/chrono.hpp>
 #include <cstdio>
 
 //namespace ch = UFO_CHRONO_NAMESPACE;
-
 //------------------------------------------------------------------------------
 void rotation_test()
 {
